@@ -65,3 +65,49 @@ This pipeline is designed to:
 ### 1. Add Targets
 
 Create a file:
+```
+targets/domains.txt
+```
+Example:
+```
+example.com
+target.com
+```
+
+---
+
+### 2. Add Discord Webhook
+
+Set a repository secret:
+```
+DISCORD_WEBHOOK
+```
+
+---
+
+### 3. Enable GitHub Actions
+
+The workflow runs:
+- on a daily schedule
+- or manually via `workflow_dispatch`
+
+---
+
+## Notes
+
+This is a simplified public version of a larger internal workflow.
+
+Some detection logic and heuristics have been intentionally reduced.
+
+---
+
+## Disclaimer
+
+This project is intended for authorized security testing and research only.  
+Do not use it against systems without permission.
+
+---
+
+## Author
+
+ozz
