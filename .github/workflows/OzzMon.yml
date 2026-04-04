@@ -1,12 +1,12 @@
 name: Continuous Recon (Public Version)
+# uncomment the below lines to make this to make it work automatically
+#on:
+#  schedule:
+#    - cron: "0 2 * * *"
+#   workflow_dispatch:
 
-on:
-  schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+#permissions:
+#  contents: write
 
 jobs:
   recon:
