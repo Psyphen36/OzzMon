@@ -101,7 +101,7 @@ Some detection logic and heuristics have been intentionally reduced.
 
 Go to .github/workflows/OzzMon.yml and uncomment these lines before cloning to enable it.
 
-![Remove comment]('/Img/Edit.jpg')
+![Remove comment]('Img/Edit.jpg')
 
 ---
 
