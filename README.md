@@ -99,8 +99,10 @@ This is a simplified public version of a larger internal workflow.
 
 Some detection logic and heuristics have been intentionally reduced.
 
-Go to .workflows/ and uncomment these lines before cloning to enable it.
+Go to .github/workflows/OzzMon.yml and uncomment these lines before cloning to enable it.
+
 ![Remove comment]('/Img/Edit.jpg')
+
 ---
 
 ## Disclaimer
