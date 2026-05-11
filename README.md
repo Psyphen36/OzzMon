@@ -101,7 +101,7 @@ Some detection logic and heuristics have been intentionally reduced.
 
 Go to .github/workflows/OzzMon.yml and uncomment these lines before cloning to enable it.
 
-![Remove comment]('https://github.com/Psyphen36/OzzMon/blob/33b106450bfb47dcf70da2e65079a32b88dd7e0e/Img/Edit.jpg')
+![Remove comment](https://raw.githubusercontent.com/Psyphen36/OzzMon/33b106450bfb47dcf70da2e65079a32b88dd7e0e/Img/Edit.jpg)
 
 ---
 
